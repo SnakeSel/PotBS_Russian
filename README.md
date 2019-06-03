@@ -1,4 +1,5 @@
-# Корсары Онлайн: Pirates of the burning sea. Russian language
+# Корсары Онлайн: Pirates of the burning sea.
+### Russian language
 
 Предлагаю всем желающим актуализировать перевод PotBS.
 ```
