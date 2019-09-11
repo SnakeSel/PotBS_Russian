@@ -18,6 +18,9 @@ PotBS_lang - утилита для создания ".dir" файла из ".dat
 4. Запустите *PotbS_lang_x64.exe* указав имя файла ru_ru_data.dat: `PotbS_lang_x64.exe ru_ru_data.dat`
 5. Поместите файлы *ru_ru_data.dat* и *ru_ru_data.dir* в папку PotBS/locale
 
+Можете попробовать [графическую программу](https://drive.google.com/drive/folders/1rrAK8AGKeczk17jxqVbSKEyMg_jeW2EQ?usp=sharing "Google Disk") для упрощения перевода.\
+По вопросам работы программы пишите на snake.sel@gmail.com
+
 ### Заметки по переводу:
 * Строка с переводом должна заканчиваться переносом строки в стиле Windows (`\r\n`).
 * Если нужно перейти на новую строку внутри перевода, пишем `\n`.  
